@@ -2,6 +2,8 @@
 
 #' Title
 #'
+#' @param n_rows (int) number of rows to get
+#'
 #' @return a tibble
 #' @export
 #'
@@ -38,10 +40,9 @@ generate_fake_compagnies <- function(n_rows) {
 
 #' Title
 #'
-#' @return
+#' @return tibble
 #' @export
 #'
-#' @examples
 #
 generate_fake_passenger <- function() {
 

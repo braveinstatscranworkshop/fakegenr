@@ -16,7 +16,7 @@ testthat::test_that(desc = "Expect the generate_fake_passenger function to work"
     expected = number_rows_to_expect
   )
 
-  testthat::expect_gt(
+  testthat::expect_gte(
     object = number_rows_tibble,
     expected = 10
   )

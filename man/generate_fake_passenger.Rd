@@ -6,6 +6,9 @@
 \usage{
 generate_fake_passenger()
 }
+\value{
+tibble
+}
 \description{
 Title
 }

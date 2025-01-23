@@ -6,6 +6,9 @@
 \usage{
 generate_fake_compagnies(n_rows)
 }
+\arguments{
+\item{n_rows}{(int) number of rows to get}
+}
 \value{
 a tibble
 }
