@@ -1,0 +1,11 @@
+PassengerID,Name,Age,Gender,FlightNumber,SeatClass
+1,John Smith,34,Male,AA123,Economy
+2,Emily Johnson,28,Female,DL456,Fist Class
+3,Michael Brown,45,Male,UA789,Business
+4,Lisa White,37,Female,AA123,Economy
+5,James Miller,50,Male,DL456,Business
+6,Olivia Garcia,29,Female,UA789,Economy
+7,David Martinez,41,Male,AA123,Business
+8,Susan Lee,33,Female,DL456,First Class
+9,Daniel Harris,26,Male,UA789,Economy
+10,Megan Clark,38,Female,AA123,Business
